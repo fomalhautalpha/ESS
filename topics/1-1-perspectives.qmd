@@ -1,0 +1,100 @@
+---
+title: "1.1 Perspectives"
+description: "How our values shape the way we see and treat the environment."
+---
+
+::: {.callout-note title="What this topic covers"}
+- An **environmental value system (EVS)** is a worldview that shapes how a person
+  or society perceives and acts towards the environment.
+- An EVS can be modelled as a **system**: *inputs* (education, culture, religion,
+  media, personal experience) lead to *outputs* (decisions, behaviours, policies).
+- Perspectives sit on a spectrum from **ecocentric** → **anthropocentric** →
+  **technocentric**.
+:::
+
+## Key concepts
+
+A **perspective** is the lens through which someone interprets environmental
+issues. Two people can look at the same forest and see completely different
+things — a sacred ecosystem, a carbon store, a source of timber, or a site for
+development. Those differences come from their **environmental value system**.
+
+An EVS is useful because it behaves like a system. Information and experiences go
+**in**; values, decisions, and actions come **out**. Because the inputs differ
+from person to person and culture to culture, the outputs — how we treat the
+environment — differ too.
+
+### The spectrum of perspectives
+
+```{mermaid}
+flowchart LR
+    A["Ecocentric<br/>nature-centred<br/>minimal intervention"]
+    B["Anthropocentric<br/>people-centred<br/>manage & regulate"]
+    C["Technocentric<br/>technology-centred<br/>solve with innovation"]
+    A --> B --> C
+    style A fill:#cfe9d8,stroke:#2e7d52
+    style B fill:#fff3cd,stroke:#caa436
+    style C fill:#d6e4f0,stroke:#3a6ea5
+```
+
+- **Ecocentric** — puts nature at the centre; values ecological balance and
+  prefers working *with* natural systems over controlling them.
+- **Anthropocentric** — puts people at the centre; sees the environment as
+  something to be managed sustainably for human benefit, often through
+  regulation and taxes.
+- **Technocentric** — trusts science and technology to solve environmental
+  problems and to keep raising living standards.
+
+Most real people and societies sit *somewhere along* this spectrum rather than at
+one extreme, and a person's position can shift depending on the issue.
+
+### An EVS as a system
+
+```{mermaid}
+flowchart LR
+    subgraph Inputs
+        I1[Education]
+        I2[Culture & religion]
+        I3[Media]
+        I4[Personal experience]
+    end
+    EVS([Environmental<br/>Value System])
+    subgraph Outputs
+        O1[Decisions]
+        O2[Behaviours]
+        O3[Policies]
+    end
+    I1 --> EVS
+    I2 --> EVS
+    I3 --> EVS
+    I4 --> EVS
+    EVS --> O1
+    EVS --> O2
+    EVS --> O3
+```
+
+## Key terms
+
+| Term | Meaning |
+|------|---------|
+| Environmental value system (EVS) | A worldview shaping how an individual or group perceives and acts on the environment. |
+| Ecocentric | A nature-centred perspective favouring minimal human interference. |
+| Anthropocentric | A people-centred perspective focused on managing the environment for human use. |
+| Technocentric | A perspective that relies on technology and innovation to solve environmental problems. |
+| Perspective | The particular way a person or group interprets an environmental issue. |
+
+## Check yourself
+
+::: {.callout-tip title="Quick questions" collapse="true"}
+1. Define *environmental value system* in your own words.
+2. Place each on the spectrum: a deep-ecology activist, a government economist, a
+   geo-engineering start-up founder.
+3. Explain how **two different inputs** could lead two people to opposite views on
+   building a dam.
+4. *To what extent* does a person's EVS stay fixed over their lifetime?
+:::
+
+::: {.callout-warning title="Draft"}
+This is a starter page. Always check wording and emphasis against the official
+ESS subject guide before relying on it for assessment.
+:::

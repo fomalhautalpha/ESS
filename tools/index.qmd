@@ -1,0 +1,15 @@
+---
+title: "Tools & Data"
+---
+
+This is where the platform earns its keep — the interactive, data-driven pieces
+that a simple page builder can't do. Planned tools:
+
+- **Live climate charts** — atmospheric CO₂, global temperature anomaly, pulled
+  from open data so they stay current.
+- **Diversity-index calculator** — enter species counts, get Simpson's index.
+- **Ecological-footprint estimator** — a short questionnaire with a result.
+- **Worked statistics examples** — with downloadable CSV data to try yourself.
+
+When you're ready, these can be built with R or Python code blocks (Quarto runs
+both), or with small interactive widgets. Ask and we'll build the first one together.

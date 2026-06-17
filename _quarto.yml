@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "ESSential Resources"
+  description: "Free, open resources for IB Environmental Systems & Societies and environmental education."
+  # When you publish, put your real address here (e.g. https://yourname.github.io/ess-resources)
+  site-url: https://example.com
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Topics"
+        href: topics/index.qmd
+      - text: "Case Studies"
+        href: case-studies/index.qmd
+      - text: "Glossary"
+        href: glossary.qmd
+      - text: "Tools"
+        href: tools/index.qmd
+    right:
+      - text: "About"
+        href: about.qmd
+  sidebar:
+    # This sidebar only appears on the pages listed below (the topic pages).
+    style: "docked"
+    contents:
+      - topics/index.qmd
+      - section: "1 · Foundations"
+        contents:
+          - topics/1-1-perspectives.qmd
+          - topics/1-2-systems.qmd
+          - topics/1-3-sustainability.qmd
+      - section: "2 · Ecology"
+        contents:
+          - topics/2-1-ecosystems.qmd
+  page-footer:
+    center: |
+      Built with [Quarto](https://quarto.org). Content licensed CC BY 4.0.
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-title: "On this page"
+    code-copy: true

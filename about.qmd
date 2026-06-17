@@ -1,0 +1,12 @@
+---
+title: "About"
+toc: false
+---
+
+**ESSential Resources** is a free, open project sharing notes, diagrams, case
+studies, and data for Environmental Systems & Societies and environmental
+education more broadly.
+
+Everything is free to read and share under a Creative Commons licence.
+
+*Add your name, your story, and a contact email here.*

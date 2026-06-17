@@ -1,0 +1,55 @@
+---
+title: "All Topics"
+---
+
+The full ESS syllabus map. Links in **green** are written; the rest are
+placeholders waiting for you to fill in — copy the layout of an existing page
+to keep everything consistent.
+
+## 1 · Foundations
+- [1.1 Perspectives](1-1-perspectives.qmd)
+- [1.2 Systems](1-2-systems.qmd)
+- [1.3 Sustainability](1-3-sustainability.qmd)
+
+## 2 · Ecology
+- [2.1 Individuals, populations, communities & ecosystems](2-1-ecosystems.qmd)
+- 2.2 Energy & biomass in ecosystems *(to add)*
+- 2.3 Biogeochemical cycles *(to add)*
+- 2.4 Climate & biomes *(to add)*
+- 2.5 Zonation, succession & change *(to add)*
+
+## 3 · Biodiversity & Conservation
+- 3.1 Biodiversity & evolution *(to add)*
+- 3.2 Human impact on biodiversity *(to add)*
+- 3.3 Conservation & regeneration *(to add)*
+
+## 4 · Water
+- 4.1 Water systems *(to add)*
+- 4.2 Water access, use & security *(to add)*
+- 4.3 Aquatic food production systems *(to add)*
+- 4.4 Water pollution *(to add)*
+
+## 5 · Land
+- 5.1 Soil *(to add)*
+- 5.2 Agriculture & food *(to add)*
+
+## 6 · Atmosphere & Climate Change
+- 6.1 Introduction to the atmosphere *(to add)*
+- 6.2 Climate change — causes & impacts *(to add)*
+- 6.3 Climate change — mitigation & adaptation *(to add)*
+- 6.4 Stratospheric ozone *(to add)*
+
+## 7 · Natural Resources
+- 7.1 Natural resources — uses & management *(to add)*
+- 7.2 Energy sources — uses & management *(to add)*
+- 7.3 Solid waste *(to add)*
+
+## 8 · Human Populations & Urban Systems
+- 8.1 Human populations *(to add)*
+- 8.2 Urban systems & urban planning *(to add)*
+- 8.3 Urban air pollution *(to add)*
+
+## HL Lenses
+- HL.a Environmental law *(to add)*
+- HL.b Environmental economics *(to add)*
+- HL.c Environmental ethics *(to add)*

@@ -1,0 +1,29 @@
+---
+title: "Case Studies"
+---
+
+ESS rewards **named, specific** examples. This is where you collect them — one
+short, structured entry per case, tagged by topic so they're easy to find at
+revision time.
+
+## Template for a new case study
+
+Copy this block for each case:
+
+> ### *Name of the case (place + year)*
+> **Topic links:** *e.g. 3.3 Conservation, 8.1 Human populations*
+> **What happened:** *one or two sentences*
+> **Causes:** *bullet points*
+> **Impacts:** *environmental, social, economic*
+> **Management / response:** *what was done, and how well it worked*
+
+## Example
+
+> ### Costa Rica Payments for Ecosystem Services (1997– )
+> **Topic links:** 3.3 Conservation & regeneration, 7.1 Natural resources
+> **What happened:** Costa Rica began paying landowners to conserve and restore forest.
+> **Causes:** High deforestation rates in the late 20th century.
+> **Impacts:** Forest cover recovered substantially; ecotourism grew.
+> **Management / response:** A national fund financed by fuel taxes and international support.
+
+*(Check the figures and details against current sources before publishing.)*

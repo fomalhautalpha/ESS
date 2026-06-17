@@ -1,0 +1,16 @@
+---
+title: "Glossary"
+---
+
+A growing list of key ESS terms. Keep definitions short and consistent. (The
+search box in the top bar searches this page too.)
+
+| Term | Definition | Topic |
+|------|------------|-------|
+| Environmental value system (EVS) | A worldview shaping how an individual or group perceives and acts on the environment. | 1.1 |
+| Sustainability | Use of resources at a rate that allows natural regeneration and avoids long-term damage. | 1.3 |
+| Natural capital | Natural resources that produce a flow of goods or services over time. | 1.3 |
+| Carrying capacity | The maximum population an environment can support indefinitely. | 2.1 |
+| Biodiversity | The variety of life: genetic, species, and habitat diversity. | 3.1 |
+
+*Add a row whenever you introduce a new term on a topic page.*

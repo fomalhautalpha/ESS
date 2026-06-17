@@ -1,0 +1,42 @@
+---
+title: "ESSential Resources"
+subtitle: "Free, open resources for IB Environmental Systems & Societies — and environmental education for everyone."
+toc: false
+---
+
+Welcome! This site is a growing, free collection of notes, diagrams, case studies,
+and data for **Environmental Systems & Societies (ESS)** and for anyone curious
+about how the natural world and human society fit together.
+
+Everything here is free to read and share. Pick a topic below, or browse the
+[full topic list](topics/index.qmd).
+
+## Browse by topic
+
+::: {.topic-grid}
+[**1 · Foundations**<br>Perspectives, systems & sustainability](topics/1-1-perspectives.qmd)
+
+[**2 · Ecology**<br>Populations, energy & cycles](topics/2-1-ecosystems.qmd)
+
+[**3 · Biodiversity & Conservation**<br>*coming soon*](topics/index.qmd)
+
+[**4 · Water**<br>*coming soon*](topics/index.qmd)
+
+[**5 · Land**<br>*coming soon*](topics/index.qmd)
+
+[**6 · Atmosphere & Climate Change**<br>*coming soon*](topics/index.qmd)
+
+[**7 · Natural Resources**<br>*coming soon*](topics/index.qmd)
+
+[**8 · Human Populations & Urban Systems**<br>*coming soon*](topics/index.qmd)
+:::
+
+## What you'll find here
+
+- **Topic notes** that follow the syllabus, each laid out the same way so they're easy to revise from.
+- A **glossary** of the key terms ESS loves to test.
+- A **case-study library** of named, specific examples.
+- **Tools & data** — interactive charts and calculators (the fun part).
+
+> This is an early draft built as a starting point. Content should always be
+> checked against the official subject guide before relying on it for an exam.

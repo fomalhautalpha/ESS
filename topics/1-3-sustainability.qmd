@@ -1,0 +1,28 @@
+---
+title: "1.3 Sustainability"
+description: "Natural capital, natural income, and ecological footprints."
+---
+
+::: {.callout-note title="What this topic covers"}
+- Point one *(replace me)*
+- Point two *(replace me)*
+- Point three *(replace me)*
+:::
+
+## Key concepts
+
+*Write the explanation here. Copy the structure from
+[1.1 Perspectives](1-1-perspectives.qmd): a few short paragraphs, then a diagram.*
+
+## Key terms
+
+| Term | Meaning |
+|------|---------|
+| *term* | *definition* |
+
+## Check yourself
+
+::: {.callout-tip title="Quick questions" collapse="true"}
+1. *Question one*
+2. *Question two*
+:::

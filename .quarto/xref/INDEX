@@ -1,0 +1,32 @@
+{
+  "topics/1-1-perspectives.qmd": {
+    "1-1-perspectives.html": "6ac46814"
+  },
+  "tools/index.qmd": {
+    "index.html": "cc730aae"
+  },
+  "case-studies/index.qmd": {
+    "index.html": "59ec95e3"
+  },
+  "glossary.qmd": {
+    "glossary.html": "f8d2a6cd"
+  },
+  "about.qmd": {
+    "about.html": "1aacc16c"
+  },
+  "topics/1-3-sustainability.qmd": {
+    "1-3-sustainability.html": "8d07cc2d"
+  },
+  "topics/1-2-systems.qmd": {
+    "1-2-systems.html": "ff1f1506"
+  },
+  "topics/index.qmd": {
+    "index.html": "1d13049a"
+  },
+  "topics/2-1-ecosystems.qmd": {
+    "2-1-ecosystems.html": "47297c5d"
+  },
+  "index.qmd": {
+    "index.html": "8174c915"
+  }
+}
